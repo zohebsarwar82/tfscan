@@ -21,7 +21,7 @@ terraform_012_parameters:
     - name: check
       value: public-read-write
     - name: varName2
-	  value: varValue2
+	 value: varValue2
  - root_module: scan/for-expressions/
    variable_files:
 	 - scan/rich-value-types/expressions/variables.tf
