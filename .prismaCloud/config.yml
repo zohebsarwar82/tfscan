@@ -3,4 +3,4 @@
 # For AWS CloudFormation: CFT
 # For Kubernetes: K8S
 
-template_type: K8S
+template_type: TF
