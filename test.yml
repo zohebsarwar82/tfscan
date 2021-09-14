@@ -25,7 +25,7 @@ spec:
       # Set asdflabels on the pod.
       # This is used in the deployment selector.
       labels:
-        deploy: example1
+        deploy: example111
     spec:
       containers:
         - name: nginx
